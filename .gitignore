@@ -1,0 +1,70 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.settings/
+*.launch
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+*.nb-gradle
+
+# Maven
+target/
+!target/*.jar
+!target/*.war
+
+# Gradle
+.gradle/
+!build/libs/
+!build/*.jar
+!build/*.war
+
+# Logs
+*.log
+logs/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDEs
+*.swp
+*.swo
+*.swn
+
+# Environment Files
+.env
+
+# Database
+*.sql
+*.sqlite
+
+# Local configuration files
+*.local
+
+# JAR Files
+*.jar
+*.war
+
+# Other IDE specific files
+.vscode/
+
+# Configuration files
+config/
+*.properties
+*.yml
+*.yaml
+
+# Temporary files
+*.tmp
+*.temp
